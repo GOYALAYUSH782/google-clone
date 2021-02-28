@@ -1,9 +1,12 @@
-Google Clone built using ReactJs and Google Custom Search Engine
-[Live Webite Link](google-clone-ayush.vercel.app)
+# Google Clone 
+**Built using ReactJs and Google Custom Search Engine**
 
-Made withh ♥️ by AYUSH GOYAL 💪
+[Live Webite Link](google-clone-ayush.vercel.app).
 
-# Getting Started with Create React App
+Made withh ♥️ by **AYUSH GOYAL** 💪
+
+#
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
