@@ -1,7 +1,7 @@
 # Google Clone 
-**Built using ReactJs and Google Custom Search Engine**
+**Built using ReactJs and Google Custom Search Engine and deployed using Vercel**
 
-[Live Webite Link](google-clone-ayush.vercel.app).
+**[Live Webite Link](google-clone-ayush.vercel.app)**
 
 Made withh ♥️ by **AYUSH GOYAL** 💪
 
